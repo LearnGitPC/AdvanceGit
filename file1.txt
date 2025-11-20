@@ -1,21 +1,8 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 New content from MAIN
-=======
 Hello from NEWBRANCH
->>>>>>> Stashed changes
-=======
 Hello from NEWBRANCH
->>>>>>> Stashed changes
-=======
 Hello from NEWBRANCH
->>>>>>> Stashed changes
-=======
 Hello from NEWBRANCH
->>>>>>> Stashed changes
-=======
 Hello from NEWBRANCH
->>>>>>> Stashed changes
+Hello from NEWBRANCH
+
