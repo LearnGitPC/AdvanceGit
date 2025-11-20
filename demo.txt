@@ -1,3 +1,1 @@
-Content newBranch content
-Content MAIN Branch content
-Content Feature Branch content
+Hello from NEWBRANCH
